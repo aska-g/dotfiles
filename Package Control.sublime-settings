@@ -13,5 +13,8 @@
 		"Package Control",
 		"SCSS",
 		"ERB Snippets"
+    "SublimeLinter",
+    "SublimeLinter-rubocop"
+    "Babel",
 	]
 }
