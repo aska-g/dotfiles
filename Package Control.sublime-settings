@@ -1,23 +1,28 @@
 {
 	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-        "A File Icon",
-		"AdvancedNewFile",
-		"All Autocomplete",
-		"ApplySyntax",
-        "Babel",
-		"BracketHighlighter",
-		"Emmet",
-		"ERB Snippets"
-		"Git",
-		"GitGutter",
-		"JSX",
-        "Latest Migration",
-        "MagicPython",
-		"Package Control",
-		"SCSS",
-        "SublimeLinter",
-        "SublimeLinter-rubocop"
+    "A File Icon",
+    "AdvancedNewFile",
+    "All Autocomplete",
+    "ApplySyntax",
+    "Babel",
+    "BracketHighlighter",
+    "Emmet",
+    "ERB Snippets"
+    "Git",
+    "GitGutter",
+    "JSX",
+    "Latest Migration",
+    "MagicPython",
+    "Package Control",
+    "SCSS",
+    "SublimeLinter",
+    "SublimeLinter-rubocop"
+    "MagicPython",
+    "Package Control"
 	]
 }
